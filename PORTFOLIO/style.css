@@ -1,0 +1,43 @@
+.a{
+    margin-left:40px;
+  }
+  
+  .html,body{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to left, #b63518, #8e1cdf)
+  }
+  
+  .content-flex{
+    align-items: center;
+    max-width: 500px;
+    margin-left: 300px;
+    margin-top: 50px;
+    flex-direction: column;
+    flex: 0.5px;
+  }
+  
+  .Images{
+    max-width: 300px;
+    max-height: 300px;
+  }
+  
+  .w-100,w-60 {
+    width: 450px !important;
+    height: 750px !important;
+  }
+  
+  .navbar{
+    position: sticky !important;
+    top: 0;
+    z-index: 1;
+  }
+  
+  #sendMessageButton {
+    background: rgb(85, 85, 237) !important;
+    color: #fff;
+  }
+  
+  .text-secondary {
+    color: #212529!important;
+  }
